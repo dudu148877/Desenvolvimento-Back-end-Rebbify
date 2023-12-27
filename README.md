@@ -26,6 +26,4 @@ API REST desenvolvida em NestJS, que utiliza o MongoDB como seu sistema de geren
 * Processar dados e unir informações.
 * Entregar as informações ao front (Rest API).
 
-## Autoria
 
-Este projeto foi criado por mim, João Pedro Lima Teixeira, como trabalho de conclusão de curso.
